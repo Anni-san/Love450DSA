@@ -14,7 +14,6 @@ public class swap2sorted_swapandsortMTHD {
                     j++;
                 }
             }
-
             // Sort both arrays
             Arrays.sort(a);
             Arrays.sort(b);
